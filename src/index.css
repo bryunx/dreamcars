@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url("cars.jpg");
+  background-position: center center;
+  background-repeat: no-repeat center;
+  background-size: contain cover 100%;
+  background: cover 100%;
+}
+
+h3 {
+  font-family: Ferro Rosso;
+  font-size: 30px;
+  color: #a30b33;
+}
+
+label {
+  font-family: sans-serif;
+  font-size: 20px;
+  color: #071bb5;
+  font-weight: bold;
+}
+
+.Projects {
+  text-align: center;
+  padding-left: 0px;
+  color: lime;
+}
+
+strong {
+  list-style: none;
+  display: inline-block;
+  display:table;
+  margin:0px auto 0px auto;
+  color: lime;
+}
+
+.form {
+  margin-left: 10px;
+  text-align: center;
+}
